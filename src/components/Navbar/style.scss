@@ -1,0 +1,244 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.containe    {
+    width: 100%;
+    max-width: 1250px;
+    margin: auto;
+}
+
+.navbar {
+    margin: 10px 0;
+}
+
+.wrapper_navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper_navbar ul {
+    display: flex;
+    gap: 20px;
+}
+
+.wrapper_navbar ul li {
+    list-style-type: none;
+
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+}
+
+.header_search {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.header_search img {
+    background-image: url(../../../imges/logo.png);
+
+    width: 150px;
+}
+
+.header_shop_category {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.search_header {
+    width: 602.03px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border-width: 2px 1px 2px 2px;
+    border-style: solid;
+    border-color: #41413F;
+}
+
+.category_header {
+    width: 160px;
+    height: 42px;
+
+    background: #FFFFFF;
+    border-left: 1px solid #C7C7C7;
+}
+
+.header_advanced {
+    width: 46px;
+    height: 40px;
+    left: 945.03px;
+    top: 1px;
+
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 40px;
+    /* identical to box height, or 400% */
+
+    display: flex;
+    align-items: center;
+
+    color: #767676;
+
+}
+
+.header_btn_search {
+    padding: 14px 62.1875px 14px 61.8125px;
+
+    /* position: absolute; */
+    width: 168px;
+    height: 42px;
+    left: 767.03px;
+    top: 0px;
+
+    background: #3665F3;
+    border: none;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+
+    color: #FFFFFF;
+
+}
+
+
+.header_home_menu_page ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header_home_menu_page ul li {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 133% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #555555;
+
+    display: flex;
+    gap: 5px;
+}
+
+.shop_menu {
+    margin-top: 10px;
+    width: 100%;
+    height: 330px;
+    left: calc(50% - 1312px/2);
+    top: 0px;
+    position: r;
+    background: #FEB786;
+}
+
+.header_wrap_banner_words {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 400px;
+    padding: 20px;
+}
+
+.header_wrap_banner_words h1 {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    color: #5C1B05;
+}
+
+.header_wrap_banner_words p {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+
+    color: #5C1B05;
+
+
+}
+
+.header_wrap_banner_words button {
+    width: 141.58px;
+    height: 43px;
+
+    background: rgba(255, 255, 255, 0.002);
+    border: 1px solid #5C1B05;
+}
+
+.header_banner_wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header_banner_wrapper img {
+    width: 250px;
+    height: 250px;
+}
+
+.header_wrap_banner_callaway {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.header_wrap_banner_callaway p {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 22px;
+    /* identical to box height, or 130% */
+
+    display: flex;
+    align-items: center;
+
+    color: #5C1B05;
+
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.registerAndSiginUp {
+    display: flex;
+    gap: 2px;
+}
+
+.header_category_seeAll {
+    display: flex;
+    gap: 20px;
+}
+
+.wrapper_navbar {
+    display: flex;
+   gap: 500px;
+}

@@ -1,0 +1,48 @@
+
+
+.footer_menu_wrapper ul  {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.footer_menu_wrapper ul li { 
+    list-style-type: none;
+
+    font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 12px;
+
+color: #767676;
+}
+
+
+.footer_footer_wrapper ul  {
+    display: flex;
+    gap: 2px;
+    margin: 50px 0;
+}
+
+.footer_footer_wrapper ul li { 
+    list-style-type: none;
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 12px;
+    
+    color: #767676;
+}
+
+.footer_copyright {
+    font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 11px;
+
+color: #41413F;
+
+}

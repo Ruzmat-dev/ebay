@@ -1,0 +1,51 @@
+
+.navbar{
+    width: 99%;
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logocha{
+    width: 150px;
+    height: 80px;
+}
+.con{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.wr{
+    width: 55%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part-first{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 70%;
+}
+.part-second{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.topin{
+    width: 340px;  
+}
+.inputf{
+    width: 170px;
+}
+.inputs{
+    width: 170px;
+}
